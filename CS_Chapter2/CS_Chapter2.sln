@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleDecimalTest", "DoubleDecimalTest\DoubleDecimalTest.csproj", "{F1020577-5690-4C67-B9B3-3140D0700F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room", "Room\Room.csproj", "{71FF3698-2DFE-4E48-AE21-84A0E76D3E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpet", "Carpet\Carpet.csproj", "{CC246E91-65B6-4B8D-A906-E3DEF0602FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yards", "Yards\Yards.csproj", "{A8AA7A2F-1D91-4A21-BAAA-9F9FA0F5DD5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursAndMinutes", "HoursAndMinutes\HoursAndMinutes.csproj", "{60FDEEFF-1789-4C6B-8316-33FDA557071A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggs", "Eggs\Eggs.csproj", "{97EFA880-FBF3-4518-904B-E3E2FC181793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EggsInteractive", "EggsInteractive\EggsInteractive.csproj", "{DF8DDF04-EEF4-4DB5-B6F6-3DE83459C131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1020577-5690-4C67-B9B3-3140D0700F32}.Debug|x86.ActiveCfg = Debug|x86
+		{F1020577-5690-4C67-B9B3-3140D0700F32}.Debug|x86.Build.0 = Debug|x86
+		{F1020577-5690-4C67-B9B3-3140D0700F32}.Release|x86.ActiveCfg = Release|x86
+		{F1020577-5690-4C67-B9B3-3140D0700F32}.Release|x86.Build.0 = Release|x86
+		{71FF3698-2DFE-4E48-AE21-84A0E76D3E3E}.Debug|x86.ActiveCfg = Debug|x86
+		{71FF3698-2DFE-4E48-AE21-84A0E76D3E3E}.Debug|x86.Build.0 = Debug|x86
+		{71FF3698-2DFE-4E48-AE21-84A0E76D3E3E}.Release|x86.ActiveCfg = Release|x86
+		{71FF3698-2DFE-4E48-AE21-84A0E76D3E3E}.Release|x86.Build.0 = Release|x86
+		{CC246E91-65B6-4B8D-A906-E3DEF0602FC1}.Debug|x86.ActiveCfg = Debug|x86
+		{CC246E91-65B6-4B8D-A906-E3DEF0602FC1}.Debug|x86.Build.0 = Debug|x86
+		{CC246E91-65B6-4B8D-A906-E3DEF0602FC1}.Release|x86.ActiveCfg = Release|x86
+		{CC246E91-65B6-4B8D-A906-E3DEF0602FC1}.Release|x86.Build.0 = Release|x86
+		{A8AA7A2F-1D91-4A21-BAAA-9F9FA0F5DD5D}.Debug|x86.ActiveCfg = Debug|x86
+		{A8AA7A2F-1D91-4A21-BAAA-9F9FA0F5DD5D}.Debug|x86.Build.0 = Debug|x86
+		{A8AA7A2F-1D91-4A21-BAAA-9F9FA0F5DD5D}.Release|x86.ActiveCfg = Release|x86
+		{A8AA7A2F-1D91-4A21-BAAA-9F9FA0F5DD5D}.Release|x86.Build.0 = Release|x86
+		{60FDEEFF-1789-4C6B-8316-33FDA557071A}.Debug|x86.ActiveCfg = Debug|x86
+		{60FDEEFF-1789-4C6B-8316-33FDA557071A}.Debug|x86.Build.0 = Debug|x86
+		{60FDEEFF-1789-4C6B-8316-33FDA557071A}.Release|x86.ActiveCfg = Release|x86
+		{60FDEEFF-1789-4C6B-8316-33FDA557071A}.Release|x86.Build.0 = Release|x86
+		{97EFA880-FBF3-4518-904B-E3E2FC181793}.Debug|x86.ActiveCfg = Debug|x86
+		{97EFA880-FBF3-4518-904B-E3E2FC181793}.Debug|x86.Build.0 = Debug|x86
+		{97EFA880-FBF3-4518-904B-E3E2FC181793}.Release|x86.ActiveCfg = Release|x86
+		{97EFA880-FBF3-4518-904B-E3E2FC181793}.Release|x86.Build.0 = Release|x86
+		{DF8DDF04-EEF4-4DB5-B6F6-3DE83459C131}.Debug|x86.ActiveCfg = Debug|x86
+		{DF8DDF04-EEF4-4DB5-B6F6-3DE83459C131}.Debug|x86.Build.0 = Debug|x86
+		{DF8DDF04-EEF4-4DB5-B6F6-3DE83459C131}.Release|x86.ActiveCfg = Release|x86
+		{DF8DDF04-EEF4-4DB5-B6F6-3DE83459C131}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
